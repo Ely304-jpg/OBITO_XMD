@@ -14,7 +14,7 @@ async function bug(message, client, texts, num) {
 
                 title: "Join Our WhatsApp Channel",
 
-                body: "𝕃𝕆ℝ𝔻 ༒ 𝕆𝔹𝕀𝕋𝕆",
+                body: "𝗟𝗢𝗥𝗗 ༒ 𝗢𝗕𝗜𝗧𝗢",
 
                 mediaType: 1, // Image preview
 
@@ -31,4 +31,3 @@ async function bug(message, client, texts, num) {
 }
 
 export default bug;
-          
